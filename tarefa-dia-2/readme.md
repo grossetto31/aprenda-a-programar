@@ -1,0 +1,3 @@
+**Repositório**
+
+Um repositório institucional permite que toda a produção técnica e científica das instituições estejam disponíveis em acesso aberto, ampliando a visibilidade dos autores, permitindo a busca por diferentes tipos de materiais, de forma organizada e indexada para consulta de qualquer lugar do mundo, reduzindo os riscos de plágio e garantindo a preservação da memória das instituições a longo prazo.
